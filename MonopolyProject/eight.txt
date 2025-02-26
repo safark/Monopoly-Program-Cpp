@@ -1,0 +1,173 @@
+8
+1
+1
+920
+5
+2
+2
+1470
+12
+3
+3
+1265
+3
+4
+4
+924
+29
+5
+5
+1500
+3
+6
+6
+1063
+16
+7
+7
+1133
+31
+8
+8
+1265
+23
+Mediterranean Avenue
+60
+2
+0
+2
+Baltic Avenue
+60
+4
+4
+4
+Oriental Avenue
+100
+6
+0
+7
+Vermont Avenue
+100
+6
+7
+9
+Connecticut Avenue
+120
+8
+1
+10
+St. Charles Place
+140
+10
+3
+12
+States Avenue
+140
+10
+0
+14
+Virginia Avenue
+160
+12
+6
+15
+St. James Place
+180
+14
+0
+17
+Tennessee Avenue
+180
+14
+3
+19
+New York Avenue
+200
+16
+1
+20
+Kentucky Avenue
+220
+18
+6
+22
+Indiana Avenue
+220
+18
+7
+24
+Illinois Avenue
+240
+20
+2
+25
+Atlantic Avenue
+260
+22
+1
+27
+Ventnor Avenue
+260
+22
+4
+28
+Marvin Gardens
+280
+24
+0
+30
+Pacific Avenue
+300
+26
+4
+32
+North Carolina Avenue
+300
+26
+0
+33
+Pennsylvania Avenue
+320
+28
+0
+35
+Park Place
+350
+35
+0
+38
+Boardwalk
+400
+50
+0
+40
+Electric Company
+150
+25
+0
+13
+Water Works
+150
+25
+3
+29
+Reading Railroad
+200
+25
+8
+6
+Pennsylvania Railroad
+200
+25
+4
+16
+B. & O. Railroad
+200
+25
+5
+26
+Short Line
+200
+25
+1
+36
